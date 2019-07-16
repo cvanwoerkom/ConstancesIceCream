@@ -1,0 +1,38 @@
+.spacer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+  
+.dark-bg {
+    background-color: #11122b;
+    color: #cbcbcb;
+}
+  
+.phone a {
+  color: #cbcbcb;
+  text-decoration: none;
+  transition: 0.5s;
+}
+  
+.phone a:hover {
+  color: #cea135;
+  text-decoration: none;
+}
+
+.anchor-link {
+  text-decoration: none;
+  color: #cea135;
+}
+
+.anchor-link:focus {
+  outline: none;
+}
+.anchor-link h1::after {
+  font-family: "Font Awesome 5 Free";
+  content: " \f0c1";
+  font-weight: 900;
+}
+.spacer10 {
+  height: 10px;
+  width: 100%;
+}

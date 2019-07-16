@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    font-family: 'Satisfy', cursive;
+} 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Schoolbell', cursive;
+}
+.footer > .links-wrapper {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 400px;
+}
+.footer > .social-media-icons-wrapper a {
+    font-size: 1.5em;
+    color: #cbcbcb;
+    transition: 0.5s;
+}
+
